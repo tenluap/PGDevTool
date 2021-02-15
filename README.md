@@ -34,7 +34,7 @@ During the creation I got to hear a lot of users request and tried to implement 
 > F7 *open Monaco editor*
 
 **How to Install**
-> Simply download the plugin [here](https://drive.google.com/file/d/1LP6EeR7fGhqaK2Scc5bZQIrrl2uXRkuD/view?usp=sharing)
+> Simply download the plugin [here](https://github.com/ehigiepaul/PGDevTool/releases/latest)
 > Extract it anywhere and Open Pinegrow 
 > File > Manage libraries and plugins > load plugin
 > Navigate to the extracted file and pick the PGDevTools.js
@@ -42,7 +42,7 @@ During the creation I got to hear a lot of users request and tried to implement 
 
 Thanks and stay safe.
 
-**You can [Support development here](https://bit.ly/2N1N4w9) to help continue in the development and more tools.**
+**You can [Support development here](https://www.paypal.com/donate?hosted_button_id=4X6C8HF764TU2&source=url) to help continue in the development and more tools.**
 
 **Screenshots**
 
@@ -74,6 +74,6 @@ Dockable terminal and editor
 * Easy PG plugin development api (on heavy development) 
 * and more.
 
-**Enjoy and You can [Support development here](https://bit.ly/2N1N4w9) to help continue in the development and more tools.**
+**Enjoy and You can [Support development here](https://www.paypal.com/donate?hosted_button_id=4X6C8HF764TU2&source=url) to help continue in the development and more tools.**
 
 Follow me on twitter @ehigiepaul
