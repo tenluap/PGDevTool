@@ -35,9 +35,13 @@ During the creation I got to hear a lot of users request and tried to implement 
 
 **How to Install**
 > Simply download the plugin [here](https://github.com/ehigiepaul/PGDevTool/releases/latest)
+
 > Extract it anywhere and Open Pinegrow 
+
 > File > Manage libraries and plugins > load plugin
+
 > Navigate to the extracted file and pick the PGDevTools.js
+
 > add it and you are set and ready to go.
 
 Thanks and stay safe.
