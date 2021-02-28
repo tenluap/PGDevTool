@@ -78,6 +78,6 @@ Dockable terminal and editor
 * Easy PG plugin development api (on heavy development) 
 * and more.
 
-**Enjoy and You can [Support development here](https://www.paypal.com/donate?hosted_button_id=4X6C8HF764TU2&source=url) to help continue in the development and more tools.**
+**Enjoy and You can [Support development here](https://ehigiepaul.github.io/PGDevTool/payment.html) to help continue in the development and more tools.**
 
 Follow me on twitter @ehigiepaul
