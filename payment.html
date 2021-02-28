@@ -1,10 +1,52 @@
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
-  <script>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Blank Template for Bootstrap</title>
+        <!-- Bootstrap core CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+    </head>
+    <body class="overflow-hidden">
+        <div class="background-cover container-fluid d-flex flex-column min-vh-100 opacity-50 overflow-hidden" style="background-image:url('https://ehigiepaul.github.io/PGDevTool/Untitled.png');">
+            <div class="min-vh-100 min-vw-100 position-absolute" style="background-color: rgba(39, 39, 39, 0.75); z-index: 0;"></div>
+            <div class="bg-white container m-auto overflow-hidden pb-3 pt-3 w-50" style="z-index: 1;">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>PG Devtools</h3> 
+                        <p><strong>PG Devtool</strong> Plugin codename PGMonaco, is an integration of monaco code editor and terminal to Pinegrow. Monaco Editor is used in Visual Studio Code and many applications.&nbsp;</p>
+                        <p><p><strong>Available</strong> features for now:</p><ul>
+                                <li>Integrated Monaco</li>
+                                <li>Integrated terminal into PG **</li>
+                                <li>emmet for html and css</li>
+                                <li>support for html, css, C#, json, razor, php, typescript and javascript enabled (most intellisense are not implemented yet)</li>
+                                <li>Perfect intellisense for html and css.</li>
+                                <li>Click on none html files and auto open on editor</li>
+                                <li>Auto update preview</li>
+                                <li>go to line in editor - Ctrl + G</li>
+                                <li>open editor - F7</li>
+                                <li>open terminal - alt + `</li>
+                                <li>pop out editor **</li>
+                                <li>Multiple tabs in editor</li>
+                                <li>Single tab for terminal</li>
+                                <li>All basic monaco editor features available</li>
+                                <li>and more to come.</li>
+                            </ul></p> 
+                        <div id="smart-button-container">
+                            <div style="text-align: center;">
+                                <div id="paypal-button-container"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+        <script>
     function initPayPalButton() {
       paypal.Buttons({
         style: {
@@ -34,3 +76,11 @@
     }
     initPayPalButton();
   </script>
+        <!-- Bootstrap core JavaScript
+    ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    </body>
+</html>
