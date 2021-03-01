@@ -1,5 +1,4 @@
 <center><h1>DevTool for Pinegrow</h1></center>
- ![GitHub all releases](https://img.shields.io/github/downloads/ehigiepaul/pgdevtool/total?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/ehigiepaul/pgdevtool?color=red&label=Posted%20Issues&style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ehigiepaul/pgdevtool?style=flat-square)
 
 ![Untitled|626x500, 100%](https://aws1.discourse-cdn.com/standard10/uploads/pinegrow/original/2X/f/f9c470136e03c4ed6d104fef9b22b19f7a16ffe8.png) 
 
@@ -26,6 +25,9 @@ During the creation I got to hear a lot of users request and tried to implement 
 * Single tab for terminal
 * All basic monaco editor features available
 * and more to come.
+
+## Installation video
+https://youtu.be/hD2R2XSi5P8
 
 >  ** indicates know issues and due to the promise of the release on the 14th of February no time to fix
 
