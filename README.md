@@ -49,7 +49,7 @@ https://youtu.be/hD2R2XSi5P8
 
 Thanks and stay safe.
 
-**You can [Support development here](https://www.paypal.com/donate?hosted_button_id=4X6C8HF764TU2&source=url) to help continue in the development and more tools.**
+**You can [Support development here](https://ehigiepaul.github.io/PGDevTool/payment.html) to help continue in the development and more tools.**
 
 **Screenshots**
 
